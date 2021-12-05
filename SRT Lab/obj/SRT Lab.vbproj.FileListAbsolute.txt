@@ -1,0 +1,24 @@
+E:\Projects\Visual Studio\SRT Lab\SRT Lab\obj\Debug\SRT Lab.exe
+E:\Projects\Visual Studio\SRT Lab\SRT Lab\obj\Debug\SRT Lab.xml
+E:\Projects\Visual Studio\SRT Lab\SRT Lab\obj\Debug\SRT Lab.pdb
+E:\Projects\Visual Studio\SRT Lab\SRT Lab\bin\Debug\SRT Lab.exe
+E:\Projects\Visual Studio\SRT Lab\SRT Lab\bin\Debug\SRT Lab.pdb
+E:\Projects\Visual Studio\SRT Lab\SRT Lab\bin\Debug\SRT Lab.xml
+E:\Projects\Visual Studio\SRT Lab\SRT Lab\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Visual Studio\SRT Lab\SRT Lab\obj\Debug\SRT_Lab.Form1.resources
+E:\Projects\Visual Studio\SRT Lab\SRT Lab\obj\Debug\SRT_Lab.Resources.resources
+E:\Projects\Visual Studio\SRT Lab\SRT Lab\obj\Debug\SRT Lab.vbproj.GenerateResource.Cache
+E:\Projects\Visual Studio\SRT Lab\SRT Lab\obj\Debug\SRT_Lab.resync.resources
+E:\Projects\Visual Studio\SRT Lab\SRT Lab\obj\Debug\SRT_Lab.editor.resources
+D:\Visual Basic\SRT Lab3\SRT Lab\obj\Debug\SRT Lab.exe
+D:\Visual Basic\SRT Lab3\SRT Lab\obj\Debug\SRT Lab.xml
+D:\Visual Basic\SRT Lab3\SRT Lab\obj\Debug\SRT Lab.pdb
+D:\Visual Basic\SRT Lab3\SRT Lab\bin\Debug\SRT Lab.exe
+D:\Visual Basic\SRT Lab3\SRT Lab\bin\Debug\SRT Lab.pdb
+D:\Visual Basic\SRT Lab3\SRT Lab\bin\Debug\SRT Lab.xml
+D:\Visual Basic\SRT Lab3\SRT Lab\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Basic\SRT Lab3\SRT Lab\obj\Debug\SRT_Lab.editor.resources
+D:\Visual Basic\SRT Lab3\SRT Lab\obj\Debug\SRT_Lab.Form1.resources
+D:\Visual Basic\SRT Lab3\SRT Lab\obj\Debug\SRT_Lab.Resources.resources
+D:\Visual Basic\SRT Lab3\SRT Lab\obj\Debug\SRT_Lab.resync.resources
+D:\Visual Basic\SRT Lab3\SRT Lab\obj\Debug\SRT Lab.vbproj.GenerateResource.Cache
